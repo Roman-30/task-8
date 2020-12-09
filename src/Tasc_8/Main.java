@@ -46,7 +46,7 @@ public class Main {
                 matrix[i] = temp;
                 if (i != 0) i--;
             }
-            i++;
+            else i++;
         }
     }
 
